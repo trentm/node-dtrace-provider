@@ -1,7 +1,7 @@
 {
-  "name" : "dtrace-provider",
-  "version" : "0.2.3",
-  "description" : "Native DTrace providers for node.js applications",
+  "name" : "trentm-dtrace-provider",
+  "version" : "0.2.4",
+  "description" : "Native DTrace providers for node.js applications (trentm fork of this)",
   "keywords" : ["dtrace"],
   "homepage" : "https://github.com/chrisa/node-dtrace-provider#readme",
   "author" : { "name" : "Chris Andrews", "email": "chris@nodnol.org" },
